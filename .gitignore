@@ -1,0 +1,13 @@
+build/
+.vs/
+.idea/
+.env*
+*.exe
+*.dll
+*.obj
+*.o
+*.res
+*.ico
+*.mp4
+*.mp3
+*.log
